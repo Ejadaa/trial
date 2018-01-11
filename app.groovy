@@ -3,7 +3,7 @@ class ThisWillActuallyRun {
 
     @RequestMapping("/")
     String home() {
-      return "Mahmoud Mohamd";
+      return "Mahmoud Mohamd from b2";
     }
 
 }
